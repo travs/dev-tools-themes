@@ -1,0 +1,22 @@
+{
+  "name": "dev-tools-themes",
+  "main": "./lib/dev-tools-themes",
+  "version": "0.0.0",
+  "description": "Make Developer Tools Beautiful Again",
+  "keywords": [
+    "Developer",
+    "Tools",
+    "dev",
+    "chrome",
+    "theme",
+    "style"
+  ],
+  "repository": "https://github.com/travs/dev-tools-themes",
+  "license": "MIT",
+  "author": "Travis Jacobs (github.com/travs)",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

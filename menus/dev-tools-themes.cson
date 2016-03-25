@@ -1,0 +1,29 @@
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'Developer Tools Themes'
+      'submenu': [
+        {
+          'label': 'Toggle'
+          'command': 'dev-tools-themes:example'
+        }
+      ]
+    ]
+  }
+  {
+    'label': 'View'
+    'submenu': [
+      'label': 'Developer'
+      'submenu': [
+        {
+          'label': 'Developer Tools Themes'
+          'submenu': [
+            { 'label': 'Default', 'command': 'dev-tools-themes:example' }
+            { 'label': 'Second', 'command': 'dev-tools-themes:example' }
+          ]
+        }
+      ]
+    ]
+  }
+]
