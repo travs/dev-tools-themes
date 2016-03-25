@@ -5,8 +5,7 @@
       {
         'label': 'Developer Tools Themes'
         'submenu': [
-          { 'label': 'Zero Dark Matrix', 'command': 'dev-tools-themes:zerodarkmatrix' }
-          { 'label': 'Default', 'command': 'dev-tools-themes:defaultTheme' }
+          { 'label': 'Settings', 'command': 'dev-tools-themes:settingsView' }
         ]
       }
     ]
@@ -17,11 +16,7 @@
       'label': 'Developer'
       'submenu': [
         {
-          'label': 'Developer Tools Themes'
-          'submenu': [
-            { 'label': 'Zero Dark Matrix', 'command': 'dev-tools-themes:zerodarkmatrix' }
-            { 'label': 'Default', 'command': 'dev-tools-themes:defaultTheme' }
-          ]
+          'label': 'Dev Tools Theme Settings', 'command': 'dev-tools-themes:settingsView'
         }
       ]
     ]
