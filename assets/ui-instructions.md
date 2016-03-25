@@ -1,4 +1,4 @@
-In order to use custom themes for the Developer Tools, a setting must be enable manually.
+In order to use custom themes for the Developer Tools, a setting must be enabled manually.
 
 1. **First open the dev tools**
 
@@ -12,6 +12,6 @@ In order to use custom themes for the Developer Tools, a setting must be enable 
 
  - <img src="3.png" width="400">
 
-
+#### Note:
 This is the only way I was able to enable this feature (manually).
 If anyone knows of a programmatic or easier way to set this, please let me know!
