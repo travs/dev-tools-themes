@@ -2,13 +2,13 @@
   {
     'label': 'Packages'
     'submenu': [
-      'label': 'Developer Tools Themes'
-      'submenu': [
-        {
-          'label': 'Toggle'
-          'command': 'dev-tools-themes:example'
-        }
-      ]
+      {
+        'label': 'Developer Tools Themes'
+        'submenu': [
+          { 'label': 'Zero Dark Matrix', 'command': 'dev-tools-themes:zerodarkmatrix' }
+          { 'label': 'Default', 'command': 'dev-tools-themes:defaultTheme' }
+        ]
+      }
     ]
   }
   {
@@ -19,8 +19,8 @@
         {
           'label': 'Developer Tools Themes'
           'submenu': [
-            { 'label': 'Default', 'command': 'dev-tools-themes:example' }
-            { 'label': 'Second', 'command': 'dev-tools-themes:example' }
+            { 'label': 'Zero Dark Matrix', 'command': 'dev-tools-themes:zerodarkmatrix' }
+            { 'label': 'Default', 'command': 'dev-tools-themes:defaultTheme' }
           ]
         }
       ]

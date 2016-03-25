@@ -11,3 +11,7 @@ In order to use custom themes for the Developer Tools, a setting must be enable 
 3. **And tick "Allow custom UI themes"**
 
  - <img src="assets/3.png" width="400">
+
+
+This is the only way I was able to enable this feature (manually).
+If anyone knows of a programmatic or easier way to set this, please let me know!
