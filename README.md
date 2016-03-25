@@ -17,6 +17,8 @@ Make sure you read the instructions in [usage](#usage) to get the themes to work
 
 After installing by the usual way (either through the settings UI or `apm install dev-tools-themes`), **make sure** you follow the steps in [this short guide](https://github.com/travs/dev-tools-themes/blob/master/assets/ui-instructions.md) to enable UI skinning.
 
+Once you have this enabled, you can choose `Packages > Developer Tools Themes > Settings` or `View > Developer > Dev Tools Theme Settings`, and pick the theme you want to use.
+
 #### Heart it? Hate it?
 Feel free to run `apm star 'dev-tools-themes'` or [raise an issue](https://github.com/travs/dev-tools-themes/issues/new)! :smile:
 
